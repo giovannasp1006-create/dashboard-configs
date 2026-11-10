@@ -1,0 +1,19 @@
+{
+  "bracell": {
+    "id": "bracell",
+    "name": "Bracell Lençóis Paulista",
+    "slug": "bracell",
+    "status": "active",
+    "firebasePath": "dados-setembro",
+    "tabs": ["indicadores","dosagens","pitch","shives","hidro","corturbidez","historico"],
+    "pointNames": {
+      "r1": "R1",
+      "tmm": "TMM",
+      "da": "DA",
+      "ep": "EP",
+      "d1": "D1",
+      "caixaEntrada": "Caixa Entrada",
+      "aguaBranca": "Água Branca"
+    }
+  }
+}
