@@ -5,7 +5,15 @@
     "slug": "bracell",
     "status": "active",
     "firebasePath": "dados-setembro",
-    "tabs": ["indicadores","dosagens","pitch","shives","hidro","corturbidez","historico"],
+    "tabs": [
+      "indicadores",
+      "dosagens",
+      "pitch",
+      "shives",
+      "hidro",
+      "corturbidez",
+      "historico"
+    ],
     "pointNames": {
       "r1": "R1",
       "tmm": "TMM",
@@ -15,5 +23,18 @@
       "caixaEntrada": "Caixa Entrada",
       "aguaBranca": "Água Branca"
     }
+  },
+  "x": {
+    "id": "x",
+    "name": "x",
+    "status": "active",
+    "firebasePath": "dados-setembro",
+    "tabs": [
+      "indicadores",
+      "dosagens",
+      "pitch",
+      "shives",
+      "hidro"
+    ]
   }
 }
